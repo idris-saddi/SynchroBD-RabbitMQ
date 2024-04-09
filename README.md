@@ -25,7 +25,18 @@ This project aims to synchronize data across multiple databases in a distributed
    - RabbitMQ server
    - MySQL server
 
-2. **Clone the Repository**:
+2. **Required Libraries**
+
+- slf4j-nop-1.8.0-beta0.jar
+- slf4j-nop-1.6.1.jar
+- slf4j-api-1.8.0-beta2.jar
+- slf4j-api-1.7.25.jar
+- rabbitmq-jms-1.11.1.jar
+- amqp-client-5.6.0.jar
+- mysql-connector-j-8.3.0.jar
+
+
+3. **Clone the Repository**:
    ```bash git clone https://github.com/idris-saddi/SynchroBD-RabbitMQ.git```
 
 ## Configuration 
