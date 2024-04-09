@@ -26,7 +26,7 @@ This project aims to synchronize data across multiple databases in a distributed
    - MySQL server
 
 2. **Clone the Repository**:
-   ```bash git clone https://github.com/idris-saddi/SynchroBD-RabbitMQ.git
+   ```bash git clone https://github.com/idris-saddi/SynchroBD-RabbitMQ.git```
 
 ## Configuration 
    - Configure database connection by adding jdbc modules in your project dependency.
